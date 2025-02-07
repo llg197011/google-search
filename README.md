@@ -1,3 +1,4 @@
+<img src="[https://cdn.wenanzhe.com/img/fullpage.jpg](https://github.com/llg197011/google-search/blob/main/867700c0dcd149d4b6d5b3b7ae0f0628.png)">
 # google-search
 Starting from January 15, 2025, Google will force users to enable JavaScript in order to use the Google search function. Due to previous business needs, we had to call the Google search function to find target resources for downloading. Google's revision has caused the entire production line to collapse, and we urgently need a solution.
 
