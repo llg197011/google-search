@@ -1,11 +1,13 @@
-<img src="[https://cdn.wenanzhe.com/img/fullpage.jpg](https://github.com/llg197011/google-search/blob/main/867700c0dcd149d4b6d5b3b7ae0f0628.png)">
 # google-search
 Starting from January 15, 2025, Google will force users to enable JavaScript in order to use the Google search function. Due to previous business needs, we had to call the Google search function to find target resources for downloading. Google's revision has caused the entire production line to collapse, and we urgently need a solution.
 
 Final Solution: By reverse-engineering the parameters and switching to a local parameter cracking method, not only can we save N times the time, but we can also save hundreds of thousands in costs.
+<img src="https://github.com/llg197011/google-search/blob/main/867700c0dcd149d4b6d5b3b7ae0f0628.png"></img>
 
 If you want a solution, you can contact me.
 llg197011@gmail.com
+
+
 
 # 背景
 从2025年1月15日开始，Google强制用户开启JavaScript才能使用Google搜索功能。
