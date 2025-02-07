@@ -3,6 +3,8 @@ Starting from January 15, 2025, Google will force users to enable JavaScript in 
 
 Final Solution: By reverse-engineering the parameters and switching to a local parameter cracking method, not only can we save N times the time, but we can also save hundreds of thousands in costs.
 <img src="https://github.com/llg197011/google-search/blob/main/867700c0dcd149d4b6d5b3b7ae0f0628.png"></img>
+![image](https://github.com/user-attachments/assets/74fd4c15-bb86-49e1-9642-81f6fbc0ce76)
+
 
 If you want a solution, you can contact me.
 llg197011@gmail.com
